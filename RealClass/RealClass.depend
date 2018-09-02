@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1535880492 source:c:\users\07pyrc\desktop\tutorial\realclass\main.cpp
+	<iostream>
+	"EasyMath.h"
+
+1535881146 c:\users\07pyrc\desktop\tutorial\realclass\easymath.h
+	<string>
+	<iostream>
+
+1535841012 source:c:\users\07pyrc\desktop\tutorial\realclass\aaaa.cpp
+	"EasyMath.h"
+

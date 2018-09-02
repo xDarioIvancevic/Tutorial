@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1535819047 source:c:\users\07pyrc\desktop\tutorial\classes\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
